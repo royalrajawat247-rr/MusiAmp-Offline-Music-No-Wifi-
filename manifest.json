@@ -1,0 +1,15 @@
+{
+  "name": "MusiAmp: Offline Music Player & EQ",
+  "short_name": "MusiAmp",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0c0c0e",
+  "theme_color": "#f39c12",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3844/3844724.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
