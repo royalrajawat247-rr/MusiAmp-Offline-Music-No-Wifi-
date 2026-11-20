@@ -1,0 +1,7 @@
+{
+  "name": "MusiAmp",
+  "description": "Offline Music Player & EQ with local folder playback, equalizer, VIP plans, and responsive UI.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

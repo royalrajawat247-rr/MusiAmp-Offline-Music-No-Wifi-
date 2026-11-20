@@ -1,15 +1,9 @@
 {
-  "name": "MusiAmp: Offline Music Player & EQ",
+  "name": "MusiAmp · RR Tech Labs — Offline Music Player & EQ",
   "short_name": "MusiAmp",
+  "description": "100% Free Offline Music Player & Pro Equalizer by RR Tech Labs. Zero login, zero uploads, battery-saving.",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#0c0c0e",
-  "theme_color": "#f39c12",
-  "icons": [
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/3844/3844724.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "background_color": "#000000",
+  "theme_color": "#a855f7"
 }
